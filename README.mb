@@ -1,0 +1,31 @@
+# 🎬 Movie Recommendation System (Streamlit + TMDB API)
+
+This project is an **AI-based Movie Recommender Web App** built using **Python** and **Streamlit**.  
+It recommends movies similar to a selected one based on content similarity (like genres, keywords, cast, etc.).  
+The app also fetches movie posters dynamically using the **TMDB API**.
+
+---
+
+## 🚀 Features
+
+- 🔍 Search and select any movie from the dataset  
+- 🎯 Get top 5 similar movie recommendations  
+- 🖼️ Display movie posters using TMDB API  
+- ⚡ Built with Streamlit for a clean, interactive UI  
+- 📦 Ready for local deployment or hosting (Streamlit Cloud / Render / Hugging Face Spaces)
+
+---
+
+## 🧠 Tech Stack
+
+- **Python 3**
+- **Streamlit**
+- **pandas**, **numpy**
+- **scikit-learn**
+- **requests**
+- **pickle** (for pre-saved model + movie data)
+- **TMDB API** (for posters and movie info)
+
+---
+
+
